@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w05bwcyhdwuroc96?svg=true)](https://ci.appveyor.com/project/Evgeniy-Varlamov/ahj9-4-testing)
+https://evgeniy-varlamov.github.io/ahj9__4__testing/
